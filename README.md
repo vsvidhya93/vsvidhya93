@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩‍💻 About Me
 
-<!--
-**vsvidhya93/vsvidhya93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm an aspiring ETL Developer with 5 years of experience in Informatica PowerCenter, now upskilling with Python, Pandas, and Data Engineering tools to reenter the tech world after a career break. I enjoy solving real-world data problems and building clean, efficient ETL workflows.
 
-Here are some ideas to get you started:
+# 🛠️ Tools & Technologies
+ETL: Informatica PowerCenter, basic Informatica Data Quality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming: Python, SQL, Unix Shell Scripting
+
+Database: MySQL, Teradata, Netezza, Salesforce
+
+Data Processing: Pandas, File Handling
+
+Version Control: Git, GitHub
+
+Learning: Cloud platforms (AWS, GCP, Azure - in progress)
+
+# 🔍 Currently Working On
+Python mini ETL projects
+
+Data cleaning with Pandas
+
+Version control with GitHub
+
+# 📫 Let's Connect!
+
+LinkedIn: https://www.linkedin.com/in/vidhya-lakshmi-venkatraman-sankar-24416254/
+
+GitHub: You’re already here! 😊
